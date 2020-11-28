@@ -30,3 +30,7 @@ Consists of the pros and cons of the methods mentioned above
 1. Still required physics based system
 2. Use of Update method is required and hence requires multiple checks
 3. Thorough testing is needed to acheive required results
+
+## Project Setting used
+1. Unity 2019.4.5f1
+2. VS Code for C#

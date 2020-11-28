@@ -31,6 +31,6 @@ Consists of the pros and cons of the methods mentioned above
 2. Use of Update method is required and hence requires multiple checks
 3. Thorough testing is needed to acheive required results
 
-## Project Setting used
+## Project Settings used
 1. Unity 2019.4.5f1
 2. VS Code for C#
